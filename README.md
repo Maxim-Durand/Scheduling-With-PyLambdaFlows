@@ -1,7 +1,7 @@
 
- ## **Planning algorithm NP-Hard using serverless with PyLambdaFlows
+ ## Planning algorithm NP-Hard using serverless with PyLambdaFlows
 
-Concerning *pyLambdaFlows* installation, please refer to the ReadMe made by the students who developped this tool on their [Git](https://github.com/Enderdead/pyLambdaFlows.
+Concerning *pyLambdaFlows* installation, please refer to the ReadMe made by the students who developped this tool on their [Git](https://github.com/Enderdead/pyLambdaFlows).
 
 This project requires Python 3.
 
