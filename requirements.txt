@@ -1,0 +1,7 @@
+pandas
+numpy
+botocore
+boto3
+progressbar2
+zipfile36
+sphinx_rtd_theme
